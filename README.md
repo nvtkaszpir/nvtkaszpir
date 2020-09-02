@@ -9,8 +9,8 @@ How to reach me, don't expect a reply though:
 
 * kaszpir at google.com - preferred communication channel
 * Slack: _KaszpiR_ @ kubernetes on `#pl-users` channel, [link](https://kubernetes.slack.com/archives/C4W6MFCEB)
-* IRC - freenode/quakenet nick: _KaszpiR_
-* twitter: [_KaszpiR_](https://twitter.com/_KaszpiR_)
+* IRC - freenode/quakenet nick: `_KaszpiR_`
+* twitter: [`_KaszpiR_`](https://twitter.com/_KaszpiR_)
 * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-socho%C5%84-46724233/)
 
 Yeah, I'm kinda non-social guy.
