@@ -24,7 +24,7 @@ Below is what I do for a living:
 # Presentations
 
 * Java on Kubernetes: problems and fixes related to HBase/Hadoop - [video](https://www.youtube.com/watch?v=GcFlHmMJ1Qo), [slides](https://nvtkaszpir.github.io/presentations-java-in-k8s-hbase-hdfs/#/) - 2020, in polish, how to put elephants into containers
-* From zero to self-driving car using DonkeyCar - [video](https://www.youtube.com/watch?v=THUL0AWHe2w&t=2258s), [slides](https://docs.google.com/presentation/d/1xLcbvkTPm6mrMvHxmm997VXiHFwlFll4WX8y2JT1xBc/edit) - 2020, in english, how to make a self-driving robot which allows to get to know with RasberryPi, automation, python coding and stuff related to ML/AI in general
+* From zero to self-driving car using DonkeyCar - [video](https://www.youtube.com/watch?v=THUL0AWHe2w), [slides](https://docs.google.com/presentation/d/1xLcbvkTPm6mrMvHxmm997VXiHFwlFll4WX8y2JT1xBc/edit) - 2020, in english, how to make a self-driving robot which allows to get to know with RasberryPi, automation, python coding and stuff related to ML/AI in general
 * Configuration management hell - [video](https://www.youtube.com/watch?v=MoObKRodHnU) - 2019, in polish, and some rants especially about fallacies of immutable infrastructure
 * With pickaxe into the cloud - [video](https://youtu.be/9Vhi6_iIWzI) - 2019, in polish, talk about using cloud and if cloud solves all your problems
 * Why you suck at being a devops person [slides](https://nvtkaszpir.github.io/presentations-wdi2018/), [source](https://github.com/nvtkaszpir/presentations-wdi2018) - 2018, non-recorded presentation with catchy title about why I suck at being a devops person, I wish to review that and record it some day...
