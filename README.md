@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 
 # About me
 
@@ -32,21 +32,20 @@ Below is what I do for a living:
 * Infrastructure as Code - [video](https://www.youtube.com/watch?v=yCRUnXqiH_I) - 2017, in polish
 * AWS Elastic Container service in practice - [video](https://www.youtube.com/watch?v=u5ahMYnJIYc) - 2016, in polish, notice that AWS ECS nowadays looks a bit different, though.
 
-
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
 # Repos
 
 Of course a lot of code goes to other private repos owned by the clients, unless things could go to upstream repos, so publicly available stuff on my github is usually related to hobbies. Some repos you may be interested in:
 
-* [vagrant-gitlab-runners](https://github.com/nvtkaszpir/vagrant-gitlab-runners) - all you need is bash for gitlab runners
+* [vagrant-gitlab-runners](https://github.com/nvtkaszpir/vagrant-gitlab-runners) - all you need is bash for GitLab runners in Vagrant
 * [workstation](https://github.com/nvtkaszpir/workstation) - provisioning my rusted laptop
 * [rpi](https://github.com/nvtkaszpir/rpi) and [rpi-power-button](https://github.com/nvtkaszpir/rpi-power-button) because ignorance causes history to repeat itself
 * [docker + buildx](https://github.com/nvtkaszpir/docker-buildx-trash) more like an inspiration for those interested in multi-arch containers
 * [dh-chaos](https://github.com/nvtkaszpir/dh-chaos) aka how to waste time waiting for Azure on hackaton while fiddling with chaos-toolkit
 * [kind-minefield](https://github.com/nvtkaszpir/kind-minefield) - jenkins pipeline which shows how to prevent your friends from abusing resources on your precious computer, which you keep alive since 2010 in the basement (the computer, not the friends...)
-* [devops-sig-8](https://github.com/nvtkaszpir/devops-sig-8) - k8s and config management - how to manage live config updates in pods, see branches and forked repo for more!
+* [devops-sig-8](https://github.com/nvtkaszpir/devops-sig-8) - k8s and config management - how to manage live config updates in pods, see forked repo and its branches for more!
 * [python-github-create-issue](https://github.com/nvtkaszpir/python-github-create-issue) - use python script to create issue from CLI, useful in certain CI systems (but I bet no one uses it)
 
 
@@ -61,7 +60,7 @@ Of course a lot of code goes to other private repos owned by the clients, unless
 # Hobbies
 
 * self driving cars - see [DonkeyCar](https://www.donkeycar.com/)
-* sometimes gibbing people with rocket launcher - I wish I were midairing people in endif [like this](https://www.youtube.com/watch?v=pv_KDPXw_3U)
+* sometimes gibbing people with rocket launcher - I wish I were midairing people in endif [like this](https://www.youtube.com/watch?v=pv_KDPXw_3U).
 
 </td>
 </tr>
