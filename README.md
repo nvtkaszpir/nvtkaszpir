@@ -34,7 +34,7 @@ Below is what I do for a living:
 
 
 </td>
-<td valign="top" width="34%">
+<td valign="top" width="50%">
 
 # Repos
 
