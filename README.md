@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="65%">
+<td valign="top" width="60%">
 
 # About me
 
@@ -33,7 +33,7 @@ Below is what I do for a living:
 * AWS Elastic Container service in practice - [video](https://www.youtube.com/watch?v=u5ahMYnJIYc) - 2016, in polish, notice that AWS ECS nowadays looks a bit different, though.
 
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="40%">
 
 # Repos
 
