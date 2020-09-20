@@ -8,7 +8,7 @@ Hi, I'm Michał, or in just call me Mike.
 How to reach me, don't expect a reply though:
 
 * kaszpir at google.com - preferred communication channel
-* Slack: `_KaszpiR_` @ kubernetes on `#pl-users` channel, [link](https://kubernetes.slack.com/archives/C4W6MFCEB)
+* Slack - usually under nickname `_KaszpiR_`, the easiest is to reach me on `#pl-users`@`kubernetes.slack.com` - [link](https://kubernetes.slack.com/archives/C4W6MFCEB), but I'm also on some other such as Grafana/Fluentd.
 * IRC - freenode/quakenet nick: `_KaszpiR_`
 * twitter: [`_KaszpiR_`](https://twitter.com/_KaszpiR_) (yeah, I'm kinda non-social guy)
 * [LinkedIn](https://www.linkedin.com/in/micha%C5%82-socho%C5%84-46724233/)
