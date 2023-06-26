@@ -12,7 +12,7 @@ How to reach me, don't expect a reply though:
 * Discord - [Quake.World](http://discord.quake.world/) nick: `_KaszpiR_`
 * IRC - LiberaChat/OFTC/QuakeNet nick: `_KaszpiR_`
 * twitter: [`_KaszpiR_`](https://twitter.com/_KaszpiR_) (yeah, I'm not really using it )
-* [LinkedIn](https://www.linkedin.com/in/micha%C5%82-socho%C5%84-46724233/)
+* [LinkedIn](https://www.linkedin.com/in/%F0%9F%90%BB-micha%C5%82-socho%C5%84-46724233/)
 
 Below is what I do for a living:
 
