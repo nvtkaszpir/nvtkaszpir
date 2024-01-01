@@ -38,6 +38,26 @@ Below is what I do for a living:
 * Pointy-haired Boss: - `Kubernetes`
   ![Kubernetes](https://pbs.twimg.com/media/EDrZEKCWwAAG_Ty.jpg:large)
 
+# Currently interested in
+
+* observability - Prometheus / Tracing etc
+* various clouds - especially AWS / GCP
+* Kubernetes and it's ecosystem - because we love tools that are not even in alpha
+* improving system's resilience via chaos engineering, but fear not,
+  devs and users are always better at that ;)
+* scalability issues within ETL systems
+
+# Hobbies
+
+* some simple electronics and automation, for example
+  * [esphome](https://esphome.io/index.html)
+  * [Node-RED](https://nodered.org/)
+  * [Home Assistant](https://www.home-assistant.io/)
+  * and others
+* 3D Printing (mainly related to filament based ones like Prusa Mini+)
+* sometimes gibbing people with rocket launcher -
+  I wish I were midairing people in endif [like this](https://www.youtube.com/watch?v=pv_KDPXw_3U).
+
 # Presentations
 
 * Java on Kubernetes: problems and fixes related to HBase/Hadoop
@@ -122,26 +142,6 @@ Some old/dormant projects:
   use python script to create issue from CLI,
   useful in certain CI systems (but I bet no one uses it),
   not really sure if this still works, though.
-
-# Currently interested in
-
-* observability - Prometheus / Tracing etc
-* various clouds - especially AWS / GCP
-* Kubernetes and it's ecosystem - because we love tools that are not even in alpha
-* improving system's resilience via chaos engineering, but fear not,
-  devs and users are always better at that ;)
-* scalability issues within ETL systems
-
-# Hobbies
-
-* some simple electronics and automation, for example
-  * [esphome](https://esphome.io/index.html)
-  * [Node-RED](https://nodered.org/)
-  * [Home Assistant](https://www.home-assistant.io/)
-  * and others
-* 3D Printing (mainly related to filament based ones like Prusa Mini+)
-* sometimes gibbing people with rocket launcher -
-  I wish I were midairing people in endif [like this](https://www.youtube.com/watch?v=pv_KDPXw_3U).
 
 </td>
 </tr>
