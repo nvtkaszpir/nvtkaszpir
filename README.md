@@ -103,6 +103,12 @@ Of course a lot of code goes to other private repos owned by the clients,
 unless things could go to upstream repos, so publicly available stuff on my
 GitHub is usually related to hobbies. Some repos you may be interested in:
 
+* [prusa-connect-camera-script](https://github.com/nvtkaszpir/prusa-connect-camera-script) - Send image capture from various cameras to Prusa Connect
+  * Raspberry Pi CSI cameras (the ones with a ribbon)
+  * USB cameras
+  * esp32 camera still image / stream capture single frame and send
+  * RSTP stream capture single frame in the works
+
 * [3d-print](https://github.com/nvtkaszpir/3d-print) - 3D Printers and stuff
 
   ![skull](https://github.com/nvtkaszpir/3d-print/raw/main/stl-to-png/skull_w_jaw.gif)
