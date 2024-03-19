@@ -102,7 +102,8 @@ Below is what I do for a living:
 Of course a lot of code goes to other private repos owned by the clients,
 unless things could go to upstream repos, so publicly available stuff on my
 GitHub is usually related to hobbies. Some repos you may be interested in:
-* [https://github.com/nvtkaszpir/esphome-pomodoro] esphome as Pomodoro
+* [esphome as Pomodoro](https://github.com/nvtkaszpir/esphome-pomodoro) esphome as Pomodoro
+
   ![esphome-pomodoro-small](https://raw.githubusercontent.com/nvtkaszpir/esphome-pomodoro/master/preview-small.png)
 
 * [prusa-connect-camera-script](https://github.com/nvtkaszpir/prusa-connect-camera-script) - send image capture from various cameras to Prusa Connect
