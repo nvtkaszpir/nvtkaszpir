@@ -108,7 +108,7 @@ GitHub is usually related to hobbies. Some repos you may be interested in:
 
 * [prusa-connect-camera-script](https://github.com/nvtkaszpir/prusa-connect-camera-script) - send image capture from various cameras to Prusa Connect
   
-  ![prusa-connect-cam](https://nvtkaszpir.github.io/prusa-connect-camera-script/static/prusa-connect-cam-small.png)
+  [![prusa-connect-cam](https://nvtkaszpir.github.io/prusa-connect-camera-script/static/prusa-connect-cam-small.png)](https://nvtkaszpir.github.io/prusa-connect-camera-script/)
   * Raspberry Pi CSI cameras (the ones with a ribbon)
   * USB cameras
   * esp32 camera still image / stream capture single frame and send
