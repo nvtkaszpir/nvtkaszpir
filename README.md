@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="40%">
 
 # About me
 
@@ -95,7 +95,7 @@ Below is what I do for a living:
   * 2016, in polish, notice that AWS ECS nowadays looks a bit different, though.
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="60%">
 
 # Repos
 
