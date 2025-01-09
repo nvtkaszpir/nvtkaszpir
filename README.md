@@ -102,6 +102,10 @@ Below is what I do for a living:
 Of course a lot of code goes to other private repos owned by the clients,
 unless things could go to upstream repos, so publicly available stuff on my
 GitHub is usually related to hobbies. Some repos you may be interested in:
+* [3d printer smart enclosure](https://github.com/nvtkaszpir/esphome-3d-printer-smart-enclosure) using esphope
+
+  <a href="https://nvtkaszpir.github.io/esphome-3d-printer-smart-enclosure/"><img src="https://nvtkaszpir.github.io/esphome-3d-printer-smart-enclosure/static/logo.png" width="96" height="96"></a>
+
 * [esphome as Pomodoro](https://github.com/nvtkaszpir/esphome-pomodoro) esphome as Pomodoro
 
   ![esphome-pomodoro-small](https://raw.githubusercontent.com/nvtkaszpir/esphome-pomodoro/master/preview-small.png)
