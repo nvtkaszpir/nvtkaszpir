@@ -129,7 +129,7 @@ GitHub is usually related to hobbies. Some repos you may be interested in:
 * [config-prusa-prometheus-json-exporter](https://github.com/nvtkaszpir/config-prusa-prometheus-json-exporter) -
   gather metrics from the printer and store them in Prometheus
 
-  ![preview](https://github.com/nvtkaszpir/config-prusa-prometheus-json-exporter/raw/main/preview_15min.png)
+  ![preview](https://github.com/nvtkaszpir/config-prusa-prometheus-json-exporter/raw/main/preview.png)
 * [gcode2png](https://github.com/nvtkaszpir/gcode2png) - ugly render of gcode to image
 
   ![tests/1.512.png](https://github.com/nvtkaszpir/gcode2png/raw/master/tests/1.512.png)
