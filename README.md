@@ -117,7 +117,8 @@ GitHub is usually related to hobbies. Some repos you may be interested in:
   * Raspberry Pi CSI cameras (the ones with a ribbon)
   * USB cameras
   * esp32 camera still image / stream capture single frame and send
-  * RSTP stream capture single frame in the works
+  * RSTP/RTMP/HLS stream capture single frame
+  * optional image flips/rotations, timestamps etc
 
 * [3d-print](https://github.com/nvtkaszpir/3d-print) - 3D Printers and stuff
 
