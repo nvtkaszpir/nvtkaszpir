@@ -102,6 +102,11 @@ Below is what I do for a living:
 Of course a lot of code goes to other private repos owned by the clients,
 unless things could go to upstream repos, so publicly available stuff on my
 GitHub is usually related to hobbies. Some repos you may be interested in:
+
+* [quake-logo-wall-light](https://github.com/nvtkaszpir/quake-logo-wall-light) 90x70 cm with WLED
+
+  ![preview](https://raw.githubusercontent.com/nvtkaszpir/quake-logo-wall-light/refs/heads/master/images/preview_512_256x256.gif)
+
 * [3d printer smart enclosure](https://github.com/nvtkaszpir/esphome-3d-printer-smart-enclosure) using esphome
 
   <a href="https://nvtkaszpir.github.io/esphome-3d-printer-smart-enclosure/"><img src="https://nvtkaszpir.github.io/esphome-3d-printer-smart-enclosure/static/logo.png" width="96" height="96"></a>
