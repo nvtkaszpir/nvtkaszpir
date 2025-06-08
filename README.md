@@ -103,9 +103,10 @@ Of course a lot of code goes to other private repos owned by the clients,
 unless things could go to upstream repos, so publicly available stuff on my
 GitHub is usually related to hobbies. Some repos you may be interested in:
 
-* [cs-mikrotik-bouncer-alt](https://github.com/nvtkaszpir/cs-mikrotik-bouncer-alt)
-  CrowdSec bouncer for MikroTik devices
+* [cs-mikrotik-bouncer-alt](https://github.com/nvtkaszpir/cs-mikrotik-bouncer-alt) - CrowdSec bouncer for MikroTik devices
 
+  ![logo](https://raw.githubusercontent.com/nvtkaszpir/cs-mikrotik-bouncer-alt/refs/heads/main/docs/assets/mikrotik_plus_crowdsec_small_800.png)
+  
 * [quake-logo-wall-light](https://github.com/nvtkaszpir/quake-logo-wall-light) 90x70 cm with WLED
 
   ![preview](https://raw.githubusercontent.com/nvtkaszpir/quake-logo-wall-light/refs/heads/master/images/preview_512_256x256.gif)
