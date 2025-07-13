@@ -105,7 +105,7 @@ GitHub is usually related to hobbies. Some repos you may be interested in:
 
 * [cs-mikrotik-bouncer-alt](https://github.com/nvtkaszpir/cs-mikrotik-bouncer-alt) - CrowdSec bouncer for MikroTik devices
 
-  ![logo](https://raw.githubusercontent.com/nvtkaszpir/cs-mikrotik-bouncer-alt/refs/heads/main/docs/assets/mikrotik_plus_crowdsec_small_800.png)
+  ![logo](https://raw.githubusercontent.com/nvtkaszpir/cs-mikrotik-bouncer-alt/refs/heads/main/docs/static/mikrotik_plus_crowdsec_small_800.png)
   
 * [quake-logo-wall-light](https://github.com/nvtkaszpir/quake-logo-wall-light) 90x70 cm with WLED
 
